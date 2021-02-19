@@ -17,9 +17,8 @@ Back-end & Front-End(++React) 's useful functions
 
 [checkUrlFormat](https://github.com/cockyb/utils/blob/main/frontend/checkUrlFormat.js)
 
-[createChartData](https://github.com/cockyb/utils/blob/main/frontend/createChartData.js)
+[createChartData](https://github.com/cockyb/utils/blob/main/frontend/createChartData.js)(This function was written for charts.js)
 
-This function was written for charts.js
 [downloadImageFromUrl](https://github.com/cockyb/utils/blob/main/frontend/downloadImageFromUrl.js)
 
 [getImageNameFromUrl](https://github.com/cockyb/utils/blob/main/frontend/getImageNameFromUrl.js)
